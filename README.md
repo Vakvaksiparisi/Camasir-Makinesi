@@ -1,2 +1,2 @@
-# Camasir-Makinesi
+# Çamaşır-Makinesi
 Çorabın teki genelde makinanın sus sizdırmasın diye yapılan plastiğinin altına kaçar gizli çorap saklama yeridir orası...
